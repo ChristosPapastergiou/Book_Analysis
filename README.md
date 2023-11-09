@@ -7,3 +7,5 @@ Main topics :
 - Data Analysis (Stats, observations etc)
 - Vectorization (TF-IDF, Word Embeddings)
 - Classification (Naive Bayes, Support Vector Machines, Random Forest)
+
+In collaboration with @chrisdimCs
